@@ -59,7 +59,7 @@ include("includes/main.php");
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label> Email</label>
+<label> E-mail</label>
 
 <input type="text" class="form-control" name="c_email" required>
 
@@ -100,7 +100,7 @@ include("includes/main.php");
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label> Confirme a Senha</label>
+<label> Confirme sua Senha</label>
 
 <div class="input-group"><!-- input-group Starts -->
 
@@ -145,7 +145,7 @@ include("includes/main.php");
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label> Endereço</label>
+<label> Endereço </label>
 
 <input type="text" class="form-control" name="c_address" required>
 
@@ -153,7 +153,7 @@ include("includes/main.php");
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label> Foto</label>
+<label> Foto de Perfil </label>
 
 <input type="file" class="form-control" name="c_image" required>
 
