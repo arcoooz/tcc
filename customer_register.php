@@ -42,7 +42,6 @@ include("includes/main.php");
 <h2> Cadastrar Nova Conta </h2>
 
 
-
 </center><!-- center Ends -->
 
 </div><!-- box-header Ends -->
@@ -51,7 +50,7 @@ include("includes/main.php");
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label>Nome do Cliente</label>
+<label>Nome Completo</label>
 
 <input type="text" class="form-control" name="c_name" required>
 
@@ -129,6 +128,7 @@ include("includes/main.php");
 
 <div class="form-group"><!-- form-group Starts -->
 
+
 <label> Cidade </label>
 
 <input type="text" class="form-control" name="c_city" required>
@@ -153,7 +153,7 @@ include("includes/main.php");
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label> Foto de Perfil </label>
+<label> Escolha sua Foto de Perfil </label>
 
 <input type="file" class="form-control" name="c_image" required>
 
